@@ -1,1 +1,1 @@
-# calculator-js.github.io
+# Калькулятор сделанный с помощью JavaScript
